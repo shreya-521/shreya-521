@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭I'm currently working on Strengthening my Data structure and Algorithm and cybersecurity(ethical hacking)<br>🙌I'm looking to collabortae on Cybersecurity projects, AI/ML models in production, Open source security tools<br>🤝🏻I'm looking for help with Advanced backend development, Deploying ML models in production, Security architecture & penetration testing<br>🌱I'm currently learning:<br>*Advanced java, ethical hacking, machine learning fundamentals<br>💬Ask me about:<br>*java programmimg<br>*DBMS conceots<br>*Cybersecurity concepts<br>
+🔭I'm currently working on Strengthening my Data structure and Algorithm and cybersecurity(ethical hacking)<br>🙌I'm looking to collabortae on Cybersecurity projects, AI/ML models in production, Open source security tools<br>🤝🏻I'm looking for help with Advanced backend development, Deploying ML models in production, Security architecture & penetration testing<br>🌱I'm currently learning Advanced java, ethical hacking, machine learning fundamentals<br>💬Ask me about:<br>*java programmimg<br>*DBMS conceots<br>*Cybersecurity concepts<br>
 
 
 ## 🌐 Socials:
