@@ -1,7 +1,7 @@
-## Hi there 👋
+
 
 <!--
-**shreya-521/shreya-521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shreya-521/shreya-521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
 
 Here are some ideas to get you started:
 
