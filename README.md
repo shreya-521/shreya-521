@@ -77,10 +77,6 @@ Power-efficient Flutter app that blocks distracting apps until you complete a ca
 </td>
 <td width="50%" valign="top">
 
-**🛡️ AI Log Anomaly Detector** <sub>*(in progress)*</sub>
-A FastAPI service that flags suspicious log/email patterns using a lightweight ML classifier — security + AI engineering in one repo.
-
-`Python` `FastAPI` `scikit-learn` `Docker`
 
 </td>
 </tr>
