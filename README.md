@@ -16,7 +16,7 @@
 ```bash
 > Shreya A
 > CS & Engineering student, India
-> Stack: Java · Python · JS · C · Flutter
+> Stack: Java · Python · JS · C · Linux
 > Focus: Cybersecurity 🔐  |  Software Dev 💻  |  AI Engineering 🤖
 > Status: shipping code, breaking things in lab environments only
 ```
